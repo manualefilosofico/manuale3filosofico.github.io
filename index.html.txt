@@ -1,0 +1,296 @@
+<html lang="it" class="translated-ltr"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Dario Vinci, Giorgio Enrico Pizzo, Giuseppe Orlando, Alessandro Anzalone">
+    <title>Manuale di filosofia</title>
+
+  
+    
+
+    <!-- Bootstrap core CSS -->
+
+
+    <!-- Favicons -->
+<link rel="icon" href="/docs/5.1/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/docs/5.1/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="mask-icon" href="/docs/5.1/assets/img/favicons/safari-pinned-tab.svg" color="#7952b3">
+<link rel="icon" href="/docs/5.1/assets/img/favicons/favicon.ico">
+<meta name="theme-color" content="#7952b3">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900&amp;display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="blog.css" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
+  <body>
+    
+<div class="container">
+  <header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 pt-1">
+        <a class="link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sottoscrivi</font></font></a>
+      </div>
+      <div class="col-4 text-center">
+        <a class="blog-header-logo text-dark" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Larga</font></font></a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        <a class="link-secondary" href="#" aria-label="Ricerca">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24"><title>Search</title><circle cx="10.5" cy="10.5" r="7.5"></circle><path d="M21 21l-5.2-5.2"></path></svg>
+        </a>
+        <a class="btn btn-sm btn-outline-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Iscriviti</font></font></a>
+      </div>
+    </div>
+  </header>
+
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mondo</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">noi</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tecnologia</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Design</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cultura</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Affare</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Politica</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Opinione</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Scienza</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Salute</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stile</font></font></a>
+      <a class="p-2 link-secondary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Viaggio</font></font></a>
+    </nav>
+  </div>
+</div>
+
+<main class="container">
+  <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
+    <div class="col-md-6 px-0">
+      <h1 class="display-4 fst-italic"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Titolo di un post sul blog più in evidenza</font></font></h1>
+      <p class="lead my-3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Più righe di testo che formano il lede, informando i nuovi lettori in modo rapido ed efficiente su ciò che è più interessante nei contenuti di questo post.</font></font></p>
+      <p class="lead mb-0"><a href="#" class="text-white fw-bold"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Continua a leggere...</font></font></a></p>
+    </div>
+  </div>
+
+  <div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mondo</font></font></strong>
+          <h3 class="mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Post in primo piano</font></font></h3>
+          <div class="mb-1 text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12 novembre</font></font></div>
+          <p class="card-text mb-auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Questa è una scheda più ampia con il testo di supporto di seguito come introduzione naturale a contenuti aggiuntivi.</font></font></p>
+          <a href="#" class="stretched-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Continua a leggere</font></font></a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Segnaposto: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Design</font></font></strong>
+          <h3 class="mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Titolo del post</font></font></h3>
+          <div class="mb-1 text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11 novembre</font></font></div>
+          <p class="mb-auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Questa è una scheda più ampia con il testo di supporto di seguito come introduzione naturale a contenuti aggiuntivi.</font></font></p>
+          <a href="#" class="stretched-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Continua a leggere</font></font></a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Segnaposto: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row g-5">
+    <div class="col-md-8">
+      <h3 class="pb-4 mb-4 fst-italic border-bottom"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+        Dalla manichetta antincendio
+      </font></font></h3>
+
+      <article class="blog-post">
+        <h2 class="blog-post-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esempio di post sul blog</font></font></h2>
+        <p class="blog-post-meta"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 gennaio 2021 di </font></font><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Marco</font></font></a></p>
+
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Questo post del blog mostra alcuni tipi diversi di contenuti supportati e in stile con Bootstrap. </font><font style="vertical-align: inherit;">Tipografia di base, elenchi, tabelle, immagini, codice e altro sono tutti supportati come previsto.</font></font></p>
+        <hr>
+        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <h2>Blockquotes</h2>
+        <p>This is an example blockquote in action:</p>
+        <blockquote class="blockquote">
+          <p>Quoted text goes here.</p>
+        </blockquote>
+        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <h3>Example lists</h3>
+        <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout. This is an example unordered list:</p>
+        <ul>
+          <li>First list item</li>
+          <li>Second list item with a longer description</li>
+          <li>Third list item to close it out</li>
+        </ul>
+        <p>And this is an ordered list:</p>
+        <ol>
+          <li>First list item</li>
+          <li>Second list item with a longer description</li>
+          <li>Third list item to close it out</li>
+        </ol>
+        <p>And this is a definition list:</p>
+        <dl>
+          <dt>HyperText Markup Language (HTML)</dt>
+          <dd>The language used to describe and define the content of a Web page</dd>
+          <dt>Cascading Style Sheets (CSS)</dt>
+          <dd>Used to describe the appearance of Web content</dd>
+          <dt>JavaScript (JS)</dt>
+          <dd>The programming language used to build advanced Web sites and applications</dd>
+        </dl>
+        <h2>Inline HTML elements</h2>
+        <p>HTML defines a long list of available inline tags, a complete list of which can be found on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla Developer Network</a>.</p>
+        <ul>
+          <li><strong>To bold text</strong>, use <code class="language-plaintext highlighter-rouge">&lt;strong&gt;</code>.</li>
+          <li><em>To italicize text</em>, use <code class="language-plaintext highlighter-rouge">&lt;em&gt;</code>.</li>
+          <li>Abbreviations, like <abbr title="Linguaggio di markup ipertestuale">HTML</abbr> should use <code class="language-plaintext highlighter-rouge">&lt;abbr&gt;</code>, with an optional <code class="language-plaintext highlighter-rouge">title</code> attribute for the full phrase.</li>
+          <li>Citations, like <cite>— Mark Otto</cite>, should use <code class="language-plaintext highlighter-rouge">&lt;cite&gt;</code>.</li>
+          <li><del>Deleted</del> text should use <code class="language-plaintext highlighter-rouge">&lt;del&gt;</code> and <ins>inserted</ins> text should use <code class="language-plaintext highlighter-rouge">&lt;ins&gt;</code>.</li>
+          <li>Superscript <sup>text</sup> uses <code class="language-plaintext highlighter-rouge">&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code class="language-plaintext highlighter-rouge">&lt;sub&gt;</code>.</li>
+        </ul>
+        <p>Most of these elements are styled by browsers with few modifications on our part.</p>
+        <h2>Heading</h2>
+        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <h3>Sub-heading</h3>
+        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <pre><code>Example code block</code></pre>
+        <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
+      </article>
+
+      <article class="blog-post">
+        <h2 class="blog-post-title">Another blog post</h2>
+        <p class="blog-post-meta">December 23, 2020 by <a href="#">Jacob</a></p>
+
+        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <blockquote>
+          <p>Longer quote goes here, maybe with some <strong>emphasized text</strong> in the middle of it.</p>
+        </blockquote>
+        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <h3>Example table</h3>
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">E non dimenticare le tabelle in questi post:</font></font></p>
+        <table class="table">
+          <thead>
+            <tr>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nome</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">voti positivi</font></font></th>
+              <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Voti negativi</font></font></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alice</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11</font></font></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bob</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
+            </tr>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Charlie</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9</font></font></td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Totali</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21</font></font></td>
+              <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">23</font></font></td>
+            </tr>
+          </tfoot>
+        </table>
+
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Questo è un contenuto aggiuntivo di segnaposto di paragrafo. </font><font style="vertical-align: inherit;">È una versione leggermente più breve dell'altro corpo del testo altamente ripetitivo utilizzato in tutto.</font></font></p>
+      </article>
+
+      <article class="blog-post">
+        <h2 class="blog-post-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nuova caratteristica</font></font></h2>
+        <p class="blog-post-meta"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14 dicembre 2020 di </font></font><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chris</font></font></a></p>
+
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Questo è un contenuto aggiuntivo di segnaposto di paragrafo. </font><font style="vertical-align: inherit;">È stato scritto per riempire lo spazio disponibile e mostrare come un frammento di testo più lungo influisca sul contenuto circostante. </font><font style="vertical-align: inherit;">Lo ripeteremo spesso per mantenere il flusso della dimostrazione, quindi fai attenzione a questa identica stringa di testo.</font></font></p>
+        <ul>
+          <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Primo elemento dell'elenco</font></font></li>
+          <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seconda voce di elenco con una descrizione più lunga</font></font></li>
+          <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Terzo elemento dell'elenco per chiuderlo</font></font></li>
+        </ul>
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Questo è un contenuto aggiuntivo di segnaposto di paragrafo. </font><font style="vertical-align: inherit;">È una versione leggermente più breve dell'altro corpo del testo altamente ripetitivo utilizzato in tutto.</font></font></p>
+      </article>
+
+      <nav class="blog-pagination" aria-label="Impaginazione">
+        <a class="btn btn-outline-primary" href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Più vecchio</font></font></a>
+        <a class="btn btn-outline-secondary disabled"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Più nuovo</font></font></a>
+      </nav>
+
+    </div>
+
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 2rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Di</font></font></h4>
+          <p class="mb-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Personalizza questa sezione per raccontare un po' ai tuoi visitatori la tua pubblicazione, gli autori, i contenuti o qualcos'altro. </font><font style="vertical-align: inherit;">Totalmente a te.</font></font></p>
+        </div>
+
+        <div class="p-4">
+          <h4 class="fst-italic"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Archivi</font></font></h4>
+          <ol class="list-unstyled mb-0">
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">etica</font></font></a></li>
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">epistemologia</font></font></a></li>
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">filosofia della scienza</font></font></a></li>
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">metafisica</font></font></a></li>
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ermeneutica</font></font></a></li>
+           
+          </ol>
+        </div>
+
+        <div class="p-4">
+          <h4 class="fst-italic"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Altrove</font></font></h4>
+          <ol class="list-unstyled">
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Attività></font></a></li>
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Competenze</font></font></a></li>
+            <li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Videolezioni</font></font></a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="blog-footer">
+  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modello di blog creato per </font></font><a href="https://getbootstrap.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bootstrap</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> da </font></font><a href="https://twitter.com/mdo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@mdo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></p>
+  <p>
+    <a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Torna in cima</font></font></a>
+  </p>
+</footer><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Traduttore"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Testo originale</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribuisci a una traduzione migliore</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+
+
+    
+  
+
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
